@@ -1,8 +1,11 @@
 # Trabalho-React
 
 ### Bibliotecas
- * Axios (npm i axios)
- * UUID (npm i uuid)
+ * Axios
+ - npm i axios
+ 
+ * UUID
+ - npm i uuid
 
 ### Adicionando TypeScript em um projeto ReactJS
  * npm install --save typescript @types/node @types/react @types/react-dom @types/jest 
