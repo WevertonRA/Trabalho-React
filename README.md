@@ -6,15 +6,18 @@
 
 ### Adicionando TypeScript em um projeto ReactJS
  * npm install --save typescript @types/node @types/react @types/react-dom @types/jest 
- ou 
- * yarn add typescript @types/node @types/react @types/react-dom @types/jest --dev
+ * Mude as extensões .js para .tsx
+ * Vá no index.html e troque de App.js para App.tsx
 
+ ### Adicionando TypeScript em um projeto ReactJS
+ * yarn add typescript @types/node @types/react @types/react-dom @types/jest --dev
  * Mude as extensões .js para .tsx
  * Vá no index.html e troque de App.js para App.tsx
 
 ### Criando um projeto com TypeScript 
  * npx create-react-app my-app --template typescript
-ou
+ 
+### Criando um projeto com TypeScript 
  * npm create vite@latest
  * escolha React, pressione Enter
  * escolhar React, pressione Enter
