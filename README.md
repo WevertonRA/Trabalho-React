@@ -18,11 +18,13 @@
  * npm install --save typescript @types/node @types/react @types/react-dom @types/jest 
  * Mude as extensões .js para .tsx
  * Vá no index.html e troque de App.js para App.tsx
+ * Caso não seja gerado, adicione o arquivo tsconfig.json
 
  ### Adicionando TypeScript em um projeto ReactJS
  * yarn add typescript @types/node @types/react @types/react-dom @types/jest --dev
  * Mude as extensões .js para .tsx
  * Vá no index.html e troque de App.js para App.tsx
+ * Caso não seja gerado, adicione o arquivo tsconfig.json
 
 ### Repositório
  * git clone https://github.com/WevertonRA/Trabalho-React.git
