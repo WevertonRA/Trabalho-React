@@ -15,7 +15,7 @@ type Tela = {
 
 function EX01() {
     const [telas, setTelas] = useState<Tela>({
-        texto: "Tela Principal",
+        texto: "Tela Principal: EX-01",
         EX02: false,
         EX03: false,
         EX04: false,
